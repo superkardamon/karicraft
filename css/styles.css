@@ -1,0 +1,47 @@
+.block_logo{
+  padding: 15px;
+}
+body{
+  margin: 20px;
+}
+.block_up{
+  margin-bottom: 3%;
+}
+.block_button1{
+  margin: 3px;
+  transition: 0.5s;
+}
+.block_button1:hover{
+  margin: 10px;
+  transition: 0.5s;
+}
+.block_logo1{
+  margin: 3px;
+  transition: 0.5s;
+  width: 5%;
+  height: 5%;
+}
+.block_logo1:hover{
+  margin: 10px;
+  transition: 0.5s;
+  width: 5%;
+  height: 5%;
+}
+.block_info{
+  margin-top: 1%;
+}
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
