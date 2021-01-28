@@ -1,0 +1,100 @@
+.block_logo{
+  padding: 15px;
+}
+body{
+  margin: 20px;
+}
+.block_up{
+  margin-bottom: 3%;
+}
+.block_button1{
+  margin: 3px;
+  transition: 0.5s;
+}
+.block_button1:hover{
+  margin: 10px;
+  transition: 0.5s;
+}
+.block_logo1{
+  margin: 3px;
+  transition: 0.5s;
+  width: 5%;
+  height: 5%;
+}
+.block_logo1:hover{
+  margin: 10px;
+  transition: 0.5s;
+  width: 5%;
+  height: 5%;
+}
+.block_info{
+  margin-top: 1%;
+}
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+a{
+  text-decoration: none;
+  color:blue;
+}
+.content{
+display: flex;
+justify-content: space-around;
+background-color: rgba(128, 128, 128, 0.7);
+width: 1863px;
+height: 200px
+}
+.block_team-main{
+  /*font-family: 'Press Start 2P', cursive;*/
+}
+.comanda{
+  width: 340px;
+  height:53px;
+  margin:2px;
+  font-size:23px;
+  background-color: #1b1919;
+}
+.comanda2{
+  width: 190px;
+  height: 45px;;
+  font-size: 35px;
+  }
+  .Dev{
+    width: 250px;
+    height: 75px;
+    font-size:30px;
+}
+.main{
+  background-color:#616f39;
+}
+.main2{
+  background-color:#a7d129;
+}
+.moder{
+  width: 190px;
+  height: 45px;
+}
+.moder2{
+  width: 250px;
+  height: 110px;
+}
+.main3{
+  background-color: #f8eeb4;
+}
+.YT{
+  width: 190px;
+  height: 45px;;
+  font-size: 23px;
+}
